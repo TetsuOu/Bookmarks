@@ -4,7 +4,7 @@ A bookmarks website, which record my bookmarks.
 
 ![](https://img.shields.io/github/workflow/status/wangzhebufangqi/Bookmarks/ci) ![](https://img.shields.io/badge/MkDocs-material-blue) ![](https://img.shields.io/badge/My-bookmarks-orange)
 
-[https://wangzhebufangqi.github.io/Bookmarks/](https://wangzhebufangqi.github.io/Bookmarks/)
+[https://TetsuOu.github.io/Bookmarks/](https://TetsuOu.github.io/Bookmarks/)
 
 ---
 

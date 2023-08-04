@@ -1,10 +1,10 @@
 site_name: My Bookmarks
-repo_url: https://github.com/wangzhebufangqi/Bookmarks
-repo_name: wangzhebufangqi/Bookmarks
+repo_url: https://github.com/TetsuOu/Bookmarks
+repo_name: TetsuOu/Bookmarks
 
 nav:
     - Introduction: 'index.md'
-    - SiteNavigation: 'https://wangzhebufangqi.github.io/SiteNavigation/'
+    - SiteNavigation: 'https://TetsuOu.github.io/SiteNavigation/'
     - Program:  
         - Android: 'Program/Android.md'
         - C/C++: 'Program/C++.md'
@@ -17,7 +17,7 @@ nav:
     - Life:
         - Growing: 'Life/Growing.md'
  
-copyright: Copyright &copy; 2021 wangzhebufangqi
+copyright: Copyright &copy; 2023 TetsuOu
 
 
 theme: 
@@ -31,6 +31,6 @@ theme:
 extra:
     social:
         - icon: fontawesome/brands/github
-          link: https://github.com/wangzhebufangqi
-          name: wangzhebufangqi
+          link: https://github.com/TetsuOu
+          name: TetsuOu
     
