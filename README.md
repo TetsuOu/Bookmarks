@@ -2,7 +2,7 @@
 
 A bookmarks website, which record my bookmarks.
 
-![](https://img.shields.io/github/workflow/status/TetsuOu/Bookmarks/ci) ![](https://img.shields.io/badge/MkDocs-material-blue) ![](https://img.shields.io/badge/My-bookmarks-orange)
+![](https://img.shields.io/github/actions/workflow/status/TetsuOu/Bookmarks/ci.yml?branch=main) ![](https://img.shields.io/badge/MkDocs-material-blue) ![](https://img.shields.io/badge/My-bookmarks-orange)
 
 [https://TetsuOu.github.io/Bookmarks/](https://TetsuOu.github.io/Bookmarks/)
 
